@@ -13,6 +13,9 @@ Welcome to the Language Learning Platform! This web application is designed to h
 - HTML
 - CSS
 - JavaScript
+- django
+- python
+- My sql
 
 ## Getting Started
 Follow these steps to set up the Language Learning Platform on your local machine:
